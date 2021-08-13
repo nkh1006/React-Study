@@ -1,0 +1,9 @@
+body {
+  font-family: 'Inconsolata', monospace;
+  background-color: #33a9dc;
+  background-image: linear-gradient(142deg, #33dcd7, #33c5dc 31%, #33a9dc 65%, #338ddc);
+  height: 100vh;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
